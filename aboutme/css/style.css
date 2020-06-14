@@ -579,9 +579,18 @@ header {
 	text-align:center;
 	width:120px;
 	height:120px;
-	padding:40px 0 40px 0;
+	padding:10px 0 40px 0;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
+}
+.workYear>p{
+	font-size:17px;
+	color:#fff !important;
+	text-align:center;
+	padding: 6px 0;
+	font-weight: light;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: -12px;
 }
 .arrowpart {
 	float:left;
