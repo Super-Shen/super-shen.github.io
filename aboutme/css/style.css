@@ -579,13 +579,15 @@ header {
 	text-align:center;
 	width:120px;
 	height:120px;
-	padding:10px 0 40px 0;
+	padding:0;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 }
 .workYear>p{
 	font-size:17px;
 	color:#fff !important;
+	margin:0 !important;
+	padding:0 !important;
 	text-align:center;
 	padding: 6px 0;
 	font-weight: light;
@@ -1038,7 +1040,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed {
  padding-top:50px;
 }
  .education .workYear {
- padding-top:58px;
+ padding-top:40px;
 }
 }
  @media screen and (max-width: 991px) {
